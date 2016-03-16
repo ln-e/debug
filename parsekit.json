@@ -1,0 +1,6 @@
+{
+	"project": "ln-e/debug",
+	"require": {
+		"parser": ">=3.4.3"
+	}
+}
