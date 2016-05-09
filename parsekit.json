@@ -3,11 +3,11 @@
 	"description": "test description",
 	"authors": [
 		{
-			"email": "some@mail.com"
+			"email": "some@mail.com",
 			"name": "test"
 		}
 	]
-	"keywords": ["test", "debug"]
+	"keywords": ["test", "debug"],
 	"version": "0.4.x-dev",
 	"require": {
 		"parser": ">=3.4.3"
