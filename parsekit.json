@@ -6,7 +6,7 @@
 			"email": "some@mail.com",
 			"name": "test"
 		}
-	]
+	],
 	"keywords": ["test", "debug"],
 	"version": "0.4.x-dev",
 	"require": {
